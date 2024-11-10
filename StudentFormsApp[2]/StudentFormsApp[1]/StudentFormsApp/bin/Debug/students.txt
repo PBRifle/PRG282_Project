@@ -1,6 +1,0 @@
-modiri, molemoeng, 18, BComp
-456732, John, 23, BComp
-123456, Modiri, 19, BComp
-345678, modiri, 18, BIT
-600386, Oarabile, 20, Bcomp
-884555, lopopop, 22, BIT
